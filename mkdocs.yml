@@ -1,0 +1,11 @@
+site_name: Ops Journal
+docs_dir: .   # Use root as docs folder
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Logs:
+      - Logs: logs/
+  - Learning:
+      - Learning: learning/
+
